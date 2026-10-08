@@ -43,7 +43,7 @@ Model-specific analysis comparing Price vs. Range and Battery Capacity. Includes
 
 ### 6. Regional Analysis
 Geospatial and zone-wise performance breakdown. Highlights top-performing regions and infrastructure gaps.
-![Regional Analysis Dashboard](06-Regional-%20Analysis.png)
+![Regional Analysis Dashboard](06-Regional-Analysis.png)
 
 ##  Key Analysis & Improvements
 
