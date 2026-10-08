@@ -2,7 +2,7 @@
 
 An interactive **Power BI dashboard project** analyzing Electric Vehicle (EV) sales, charging infrastructure, customer insights, and vehicle performance.
 
-##  Project Overview
+## 📊 Project Overview
 
 This project provides a comprehensive view of the Indian EV market through **6 interactive Power BI dashboard pages**. It transforms raw sales and charging data into actionable business intelligence, helping stakeholders understand adoption trends, infrastructure utilization, and model-specific performance.
 
@@ -12,14 +12,14 @@ The dashboard helps analyze:
 -   **Customer Behavior:** Purchase preferences (Finance vs. Cash) and regional demand.
 -   **Vehicle Efficiency:** Price-to-range ratios and battery capacity analysis.
 
-## 🛠️ Tools & Technologies
+## ️ Tools & Technologies
 
 -   **Power BI Desktop** (Data Visualization & Modeling)
 -   **DAX** (Advanced Calculations & Measures)
 -   **Power Query** (ETL & Data Transformation)
 -   **Excel** (Source Data Management)
 
-##  Dashboard Pages
+## 📑 Dashboard Pages
 
 ### 1. Overview
 High-level KPIs including Total Revenue, Units Sold, and Average Selling Price. Features a summary of sales by vehicle type and region.
@@ -33,7 +33,7 @@ Deep dive into sales performance by State, City, and Sales Channel. Includes tre
 Analysis of charging station distribution and utilization. Features corrected utilization metrics and fast-charging adoption gauges.
 ![Charging Infrastructure Dashboard](03-Charging-Infrastructure.png)
 
-### 4. Customer Insights
+### 4. Customer Analysis
 Customer segmentation and purchase preference analysis. Visualizes ARPU (Average Revenue Per User) trends and state-wise customer value maps.
 ![Customer Insights Dashboard](04-Customer-Analysis.png)
 
@@ -45,7 +45,7 @@ Model-specific analysis comparing Price vs. Range and Battery Capacity. Includes
 Geospatial and zone-wise performance breakdown. Highlights top-performing regions and infrastructure gaps.
 ![Regional Analysis Dashboard](06-Regional-Analysis.png)
 
-## 📈 Key Analysis & Improvements
+##  Key Analysis & Improvements
 
 The dashboard focuses on critical business questions:
 -   **Fast Charging Adoption:** What percentage of models support fast charging? (Fixed Gauge Logic)
